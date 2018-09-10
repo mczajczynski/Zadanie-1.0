@@ -8,7 +8,9 @@ public class Zadanie {
         System.out.println("i");
         System.out.println("commitowania");
 
-        System.out.println("Pozdrawiam");
+        System.out.print("Pozdrawiam ");
+        System.out.println("serdercznie");
+
         System.out.print("Maciej " + "Czajczyński\n");
     }
 }
